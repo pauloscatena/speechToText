@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj": {}
+  },
+  "projects": {
+    "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj",
+        "projectName": "bgrutils.SpeechToText.Domain",
+        "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj",
+        "packagesPath": "/home/paulo/.nuget/packages/",
+        "outputPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/paulo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Google.Cloud.Speech.V1": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "IBM.Watson.SpeechToText.v1": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj",
+        "projectName": "bgrutils.SpeechToText.Infra.Data",
+        "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj",
+        "packagesPath": "/home/paulo/.nuget/packages/",
+        "outputPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/paulo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
+                "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
