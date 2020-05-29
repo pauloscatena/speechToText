@@ -1,0 +1,15 @@
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/bin/Debug/netstandard2.0/speech.berger.Infra.Ioc.deps.json
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/bin/Debug/netstandard2.0/speech.berger.Infra.Ioc.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/bin/Debug/netstandard2.0/speech.berger.Infra.Ioc.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/bin/Debug/netstandard2.0/speech.berger.Application.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/bin/Debug/netstandard2.0/speech.berger.Domain.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/bin/Debug/netstandard2.0/speech.berger.Infra.Data.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/bin/Debug/netstandard2.0/speech.berger.Application.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/bin/Debug/netstandard2.0/speech.berger.Domain.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/bin/Debug/netstandard2.0/speech.berger.Infra.Data.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/obj/Debug/netstandard2.0/speech.berger.Infra.Ioc.csprojAssemblyReference.cache
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/obj/Debug/netstandard2.0/speech.berger.Infra.Ioc.AssemblyInfoInputs.cache
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/obj/Debug/netstandard2.0/speech.berger.Infra.Ioc.AssemblyInfo.cs
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/obj/Debug/netstandard2.0/speech.berger.Infra.Ioc.csproj.CopyComplete
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/obj/Debug/netstandard2.0/speech.berger.Infra.Ioc.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Infra.Ioc/obj/Debug/netstandard2.0/speech.berger.Infra.Ioc.pdb

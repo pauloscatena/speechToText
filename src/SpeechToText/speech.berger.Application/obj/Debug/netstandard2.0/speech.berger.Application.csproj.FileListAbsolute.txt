@@ -1,0 +1,11 @@
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Application/bin/Debug/netstandard2.0/speech.berger.Application.deps.json
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Application/bin/Debug/netstandard2.0/speech.berger.Application.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Application/bin/Debug/netstandard2.0/speech.berger.Application.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Application/bin/Debug/netstandard2.0/speech.berger.Domain.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Application/bin/Debug/netstandard2.0/speech.berger.Domain.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Application/obj/Debug/netstandard2.0/speech.berger.Application.csprojAssemblyReference.cache
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Application/obj/Debug/netstandard2.0/speech.berger.Application.AssemblyInfoInputs.cache
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Application/obj/Debug/netstandard2.0/speech.berger.Application.AssemblyInfo.cs
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Application/obj/Debug/netstandard2.0/speech.berger.Application.csproj.CopyComplete
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Application/obj/Debug/netstandard2.0/speech.berger.Application.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Application/obj/Debug/netstandard2.0/speech.berger.Application.pdb

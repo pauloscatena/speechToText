@@ -1,0 +1,8 @@
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Domain/bin/Debug/netstandard2.0/speech.berger.Domain.deps.json
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Domain/bin/Debug/netstandard2.0/speech.berger.Domain.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Domain/bin/Debug/netstandard2.0/speech.berger.Domain.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Domain/obj/Debug/netstandard2.0/speech.berger.Domain.csprojAssemblyReference.cache
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Domain/obj/Debug/netstandard2.0/speech.berger.Domain.AssemblyInfoInputs.cache
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Domain/obj/Debug/netstandard2.0/speech.berger.Domain.AssemblyInfo.cs
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Domain/obj/Debug/netstandard2.0/speech.berger.Domain.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/speech.berger.Domain/obj/Debug/netstandard2.0/speech.berger.Domain.pdb
