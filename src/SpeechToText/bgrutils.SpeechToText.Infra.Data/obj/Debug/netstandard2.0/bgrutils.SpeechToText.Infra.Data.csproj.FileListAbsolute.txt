@@ -9,3 +9,14 @@
 /home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.csproj.CopyComplete
 /home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.dll
 /home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bin/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.deps.json
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bin/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bin/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bin/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bin/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.csprojAssemblyReference.cache
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.AssemblyInfoInputs.cache
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.AssemblyInfo.cs
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.csproj.CopyComplete
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Infra.Data.pdb

@@ -15,7 +15,6 @@ namespace bgrutils.SpeechToText.Domain
             var response = speech.Recognize(new RecognitionConfig()
             {
                 Encoding = RecognitionConfig.Types.AudioEncoding.Linear16,
-                SampleRateHertz = 8000,
                 LanguageCode = "pt-br",
             }, RecognitionAudio.FromBytes(bytes));
             foreach (var result in response.Results)

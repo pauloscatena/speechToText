@@ -5757,11 +5757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj",
+      "projectUniqueName": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj",
       "projectName": "bgrutils.SpeechToText.Application",
-      "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj",
+      "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj",
       "packagesPath": "/home/paulo/.nuget/packages/",
-      "outputPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Application/obj/",
+      "outputPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Application/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5778,8 +5778,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
-              "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj"
+            "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
+              "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj"
             }
           }
         }

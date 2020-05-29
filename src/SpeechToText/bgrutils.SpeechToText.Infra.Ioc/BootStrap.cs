@@ -12,7 +12,9 @@ namespace bgrutils.SpeechToText.Infra.Ioc
         public static void Initialize(IServiceCollection services)
         {
             services.AddTransient<ISpeechApplication, SpeechApplication>();
-            services.AddTransient<ISpeechService, WatsonSpeechService>();
+            services.AddTransient<ISpeechService, GoogleSpeechService>();
+            services.AddTransient<IAudioConverterService, OggAudioConverterService>();
+            services.AddTransient<IDownloadService, DownloadService>();
         }
     }
 }

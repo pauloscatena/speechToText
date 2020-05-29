@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj": {}
+    "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj": {}
   },
   "projects": {
-    "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj": {
+    "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj",
+        "projectUniqueName": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj",
         "projectName": "bgrutils.SpeechToText.Application",
-        "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj",
+        "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj",
         "packagesPath": "/home/paulo/.nuget/packages/",
-        "outputPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Application/obj/",
+        "outputPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Application/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
-                "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj"
+              "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
+                "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
+    "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj",
+        "projectUniqueName": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj",
         "projectName": "bgrutils.SpeechToText.Domain",
-        "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj",
+        "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj",
         "packagesPath": "/home/paulo/.nuget/packages/",
-        "outputPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/obj/",
+        "outputPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -128,14 +128,14 @@
         }
       }
     },
-    "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj": {
+    "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj",
+        "projectUniqueName": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj",
         "projectName": "bgrutils.SpeechToText.Infra.Data",
-        "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj",
+        "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj",
         "packagesPath": "/home/paulo/.nuget/packages/",
-        "outputPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/",
+        "outputPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -152,8 +152,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
-                "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj"
+              "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
+                "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj"
               }
             }
           }
@@ -188,14 +188,14 @@
         }
       }
     },
-    "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj": {
+    "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj",
+        "projectUniqueName": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj",
         "projectName": "bgrutils.SpeechToText.Infra.Ioc",
-        "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj",
+        "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj",
         "packagesPath": "/home/paulo/.nuget/packages/",
-        "outputPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/obj/",
+        "outputPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -212,14 +212,14 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj": {
-                "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj"
+              "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj": {
+                "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj"
               },
-              "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
-                "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj"
+              "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj": {
+                "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bgrutils.SpeechToText.Domain.csproj"
               },
-              "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj": {
-                "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj"
+              "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj": {
+                "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Data/bgrutils.SpeechToText.Infra.Data.csproj"
               }
             }
           }

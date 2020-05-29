@@ -6,3 +6,11 @@
 /home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.AssemblyInfo.cs
 /home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.dll
 /home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Domain/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bin/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.deps.json
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bin/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/bin/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.pdb
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.csprojAssemblyReference.cache
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.AssemblyInfoInputs.cache
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.AssemblyInfo.cs
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.dll
+/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Domain/obj/Debug/netstandard2.0/bgrutils.SpeechToText.Domain.pdb

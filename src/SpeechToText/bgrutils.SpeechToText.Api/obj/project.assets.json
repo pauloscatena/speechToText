@@ -6737,11 +6737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Api/bgrutils.SpeechToText.Api.csproj",
+      "projectUniqueName": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Api/bgrutils.SpeechToText.Api.csproj",
       "projectName": "bgrutils.SpeechToText.Api",
-      "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Api/bgrutils.SpeechToText.Api.csproj",
+      "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Api/bgrutils.SpeechToText.Api.csproj",
       "packagesPath": "/home/paulo/.nuget/packages/",
-      "outputPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Api/obj/",
+      "outputPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Api/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -6758,11 +6758,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj": {
-              "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj"
+            "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj": {
+              "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Application/bgrutils.SpeechToText.Application.csproj"
             },
-            "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj": {
-              "projectPath": "/home/paulo/projetos/bgrutils/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj"
+            "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj": {
+              "projectPath": "/home/paulo/projetos/speechToText/src/SpeechToText/bgrutils.SpeechToText.Infra.Ioc/bgrutils.SpeechToText.Infra.Ioc.csproj"
             }
           }
         }
